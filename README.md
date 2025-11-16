@@ -284,7 +284,7 @@ Tests are co-located with features:
 
 ```
 src/features/auth/__tests__/auth.test.tsx
-src/features/home/__tests__/home.test.tsx
+
 ```
 
 ## 🎯 Key Features Breakdown
@@ -508,8 +508,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name
 
-- GitHub: [@yourusername](https://github.com/arkar-00)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [Arkar Oo](https://github.com/arkar-00)
+- LinkedIn: [Arkar Oo](http://linkedin.com/in/arkar-oo-0265b4278)
 
 ## 🙏 Acknowledgments
 
