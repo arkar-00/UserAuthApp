@@ -509,8 +509,6 @@ See [Troubleshooting Guide](./docs/TROUBLESHOOTING.md)
 
 ## 👨‍💻 Author
 
-Your Name
-
 - GitHub: [Arkar Oo](https://github.com/arkar-00)
 - LinkedIn: [Arkar Oo](http://linkedin.com/in/arkar-oo-0265b4278)
 
