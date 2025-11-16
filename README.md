@@ -32,6 +32,13 @@ A modern, production-ready React Native authentication app built with **Expo**, 
 
 ## 📱 Screenshots
 
+![Login Light](./assets/login-light.png)
+![Login Dark](./assets/login-dark.png)
+![Signup Light](./assets/sign-in-light.png)
+![Signup Dark](./assets/sign-in-dark.png)
+![Home Light](./assets/home-light.png)
+![Home Dark](./assets/home-dark.png)
+
 ### Light Mode
 
 [Add light mode screenshots]
@@ -54,7 +61,7 @@ A modern, production-ready React Native authentication app built with **Expo**, 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/UserAuthApp.git
+git clone https://github.com/arkar-00/UserAuthApp.git
 cd UserAuthApp
 ```
 
@@ -493,7 +500,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/arkar-00)
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
