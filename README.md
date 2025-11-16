@@ -32,12 +32,12 @@ A modern, production-ready React Native authentication app built with **Expo**, 
 
 ## 📱 Screenshots
 
-![Login Light](./assets/login-light.png)
-![Login Dark](./assets/login-dark.png)
-![Signup Light](./assets/sign-in-light.png)
-![Signup Dark](./assets/sign-in-dark.png)
-![Home Light](./assets/home-light.png)
-![Home Dark](./assets/home-dark.png)
+<img src="./assets/login-light.png" width="300" />
+<img src="./assets/login-dark.png" width="300" />
+<img src="./assets/sign-in-light.png" width="300" />
+<img src="./assets/sign-in-dark.png" width="300" />
+<img src="./assets/home-light.png" width="300" />
+<img src="./assets/home-dark.png" width="300" />
 
 ### Light Mode
 
