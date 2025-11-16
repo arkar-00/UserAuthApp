@@ -52,6 +52,16 @@ A modern, production-ready React Native authentication app built with **Expo**, 
   </tr>
 </table>
 
+### Error Handling
+
+<table>
+  <tr>
+    <td><img src="./assets/login-require-fields.png" width="250"/></td>
+    <td><img src="./assets/sign-up-require-fields.png" width="250"/></td>
+    <td><img src="./assets/invalid-credential.png" width="250"/></td>
+  </tr>
+</table>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
