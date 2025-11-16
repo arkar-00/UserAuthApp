@@ -507,10 +507,6 @@ See [Troubleshooting Guide](./docs/TROUBLESHOOTING.md)
 6. Push to branch (`git push origin feature/AmazingFeature`)
 7. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 Your Name
