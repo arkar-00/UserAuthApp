@@ -6,16 +6,38 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "test": "jest --watchAll=false",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --watchAll=false",
+    "test:verbose": "jest --verbose --watchAll=false"
   },
   "dependencies": {
+    "@expo/vector-icons": "^15.0.3",
+    "@hookform/resolvers": "^5.2.2",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-navigation/native": "^7.1.20",
+    "@react-navigation/native-stack": "^7.6.3",
     "expo": "~54.0.23",
     "expo-status-bar": "~3.0.8",
+    "lottie-react-native": "^7.3.4",
     "react": "19.1.0",
-    "react-native": "0.81.5"
+    "react-hook-form": "^7.66.0",
+    "react-native": "0.81.5",
+    "react-native-reanimated": "~4.1.1",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-worklets": "^0.5.1",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
+    "@testing-library/jest-native": "^5.4.3",
+    "@testing-library/react-native": "^13.3.3",
+    "@types/jest": "29.5.14",
     "@types/react": "~19.1.0",
+    "jest": "~29.7.0",
+    "jest-expo": "~54.0.13",
+    "react-test-renderer": "19.1.0",
     "typescript": "~5.9.2"
   },
   "private": true
